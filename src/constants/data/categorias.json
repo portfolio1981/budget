@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Computación",
+        "backgroundColor": "#5CA5D2",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Computaci%C3%B3n%2FPC%2Fpngegg.png?alt=media&token=bef47161-9958-4186-b514-e165f2fd7218"
+    },
+    {
+        "id": 2,
+        "name": "Electrónica",
+        "backgroundColor": "#5CA5D2",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Electr%C3%B3nica%2Felectr%C3%B3nica.png?alt=media&token=6894153c-2b40-41e0-8d74-473d4d37e96e"
+    },
+    {
+        "id": 3,
+        "name": "Obra",
+        "backgroundColor": "#5CA5D2",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FObra.png?alt=media&token=eb265a42-f2ed-41e4-9d13-24657252a8e6"
+    },
+    {
+        "id": 4,
+        "name": "Seguridad",
+        "backgroundColor": "#5CA5D2",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Seguridad%2FSeguridad3.png?alt=media&token=a0ba62d7-6ac8-453c-9919-c10d5c9e6920"
+    }
+]

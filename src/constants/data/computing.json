@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "PC",
+        "backgroundColor": "#3D85B3",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Computaci%C3%B3n%2FPC%2FPC%C2%B4s.png?alt=media&token=d1d7907b-4a51-4e03-8c4f-8f582192f8c7"
+    },
+    {
+        "id": 2,
+        "name": "Impresoras",
+        "backgroundColor": "#306B90",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Computaci%C3%B3n%2FImpresoras%2FImpresora.png?alt=media&token=144a5d73-7366-4e86-8246-6dd6653876d3"
+    }
+]

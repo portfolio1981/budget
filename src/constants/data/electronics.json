@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "TV",
+        "backgroundColor": "#38C98A",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Electr%C3%B3nica%2FTV%2FTV.png?alt=media&token=efbb9721-3604-4cb8-ae31-0728ce690802"
+    },
+    {
+        "id": 2,
+        "name": "Placas",
+        "backgroundColor": "#32A774",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Electr%C3%B3nica%2FPlacas%2FPlaca.png?alt=media&token=016ff768-c487-412c-84fb-0d5621f18ce7"
+    }
+]

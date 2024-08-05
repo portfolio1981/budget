@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "PC",
+        "backgroundColor": "#3D85B3",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Computaci%C3%B3n%2FPC%2FPC%C2%B4s.png?alt=media&token=d1d7907b-4a51-4e03-8c4f-8f582192f8c7"
+    },
+    {
+        "id": 2,
+        "name": "Impresoras",
+        "backgroundColor": "#306B90",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Computaci%C3%B3n%2FImpresoras%2FImpresora.png?alt=media&token=144a5d73-7366-4e86-8246-6dd6653876d3"
+    },
+    {
+        "id": 3,
+        "name": "Aire Acondicionado",
+        "backgroundColor": "#B8B8B8",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FAire%20Acondicionado%2FMateriales%2FAire%20acondicionado.png?alt=media&token=3853819d-4aa7-4373-99dc-bf4335a844ca"
+    },
+    {
+        "id": 4,
+        "name": "Carpintería",
+        "backgroundColor": "#ADADAD",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FCarpinter%C3%ADa%2FMateriales%2FMuebles.png?alt=media&token=6f73d631-50f9-44ad-b9fc-784d29872012"
+    },
+    {
+        "id": 5,
+        "name": "Electricidad",
+        "backgroundColor": "#A1A1A1",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FElectricidad%2FMateriales%2FMateriales%20Electricos.png?alt=media&token=a06340a8-645c-4bf7-bd55-ce9e3ab05cdd"
+    },
+    {
+        "id": 6,
+        "name": "Herrería",
+        "backgroundColor": "#999A9A",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FHerreria%2FMano%20de%20Obra%2FMano%20de%20Obra%20Herrer%C3%ADa.png?alt=media&token=7a920202-c7d6-421f-af78-3f2d57d51ac4"
+    },
+    {
+        "id": 7,
+        "name": "TV",
+        "backgroundColor": "#38C98A",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Electr%C3%B3nica%2FTV%2FTV.png?alt=media&token=efbb9721-3604-4cb8-ae31-0728ce690802"
+    },
+    {
+        "id": 8,
+        "name": "Placas",
+        "backgroundColor": "#32A774",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Electr%C3%B3nica%2FPlacas%2FPlaca.png?alt=media&token=016ff768-c487-412c-84fb-0d5621f18ce7"
+    },
+   {
+        "id": 9,
+        "name": "Alarmas",
+        "backgroundColor": "#C24C56",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Seguridad%2FAlarmas%2FMateriales%2FAlarmas.png?alt=media&token=aac765b1-2aa8-414e-9c49-1a12a4476d78"
+    },
+    {
+        "id": 10,
+        "name": "Cámaras",
+        "backgroundColor": "#C64B56",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Seguridad%2FC%C3%A1maras%2FMateriales%2FC%C3%A1maras.png?alt=media&token=1b20452e-1b09-4eff-8f10-f96e6a791c1b"
+    },
+    {
+        "id": 11,
+        "name": "Redes",
+        "backgroundColor": "#C74A54",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Seguridad%2FNetworking%2FMateriales%2FNetwork.png?alt=media&token=62f258fc-0e8a-405b-a9d4-a984f5f3526d"
+    }
+]

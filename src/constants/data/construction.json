@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Aire Acondicionado",
+        "backgroundColor": "#B8B8B8",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FAire%20Acondicionado%2FMateriales%2FAire%20acondicionado.png?alt=media&token=3853819d-4aa7-4373-99dc-bf4335a844ca"
+    },
+    {
+        "id": 2,
+        "name": "Carpintería",
+        "backgroundColor": "#ADADAD",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FCarpinter%C3%ADa%2FMateriales%2FMuebles.png?alt=media&token=6f73d631-50f9-44ad-b9fc-784d29872012"
+    }
+    {
+        "id": 3,
+        "name": "Electricidad",
+        "backgroundColor": "#A1A1A1",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FElectricidad%2FMateriales%2FMateriales%20Electricos.png?alt=media&token=a06340a8-645c-4bf7-bd55-ce9e3ab05cdd"
+    },
+    {
+        "id": 4,
+        "name": "Herrería",
+        "backgroundColor": "#999A9A",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/budget-72bfc.appspot.com/o/Obra%2FHerreria%2FMano%20de%20Obra%2FMano%20de%20Obra%20Herrer%C3%ADa.png?alt=media&token=7a920202-c7d6-421f-af78-3f2d57d51ac4"
+    }
+]
